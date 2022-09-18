@@ -28,7 +28,7 @@ installation isn't complicated at all, just follow the steps below:
 
 ![ownership preview](https://cdn.discordapp.com/attachments/1007798294073835562/1021079928806047884/ownership_preview.png)
 
-3. Navigate through the crack file, and selected files based on your system type whetiher its x64 or x32
+3. Navigate through the crack file, and selected files based on your system type whether its x64 or x32
 
 
 copy the content of the System32 file to the following path: `C:/windows/System32`
