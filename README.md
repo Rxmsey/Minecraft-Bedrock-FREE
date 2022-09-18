@@ -30,10 +30,14 @@ A. download the files
 ![ownership preview](https://cdn.discordapp.com/attachments/1007798294073835562/1021079928806047884/ownership_preview.png)
 
 3. Navigate into the crack file, if your system is 64 bit click x64 but if it's 32 bits then click the x32 file
+
+
 copy the content of the System32 file to the following path: `C:/windows/System32`
 and the content of the SysWOW64 to the following path: `C:/windows/SysWOW64` (again you don't have to do this step if your system is 32 bit)
 
+
 4. go to the Minecraft download file and click MCdownload, select the version you wish to have and download it, after downloading process is finished, now you can launch the game
+
 
 
 ```if you happen to have any issue with this proeccess feel free to contact me on discord: Ramsey#0605 ``` 
