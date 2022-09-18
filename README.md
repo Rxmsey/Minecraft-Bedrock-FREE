@@ -14,8 +14,7 @@ All / Multi Versions - Yes
 
 installation isn't complicated at all, just follow the steps below:
 
-A. download the files 
-
+1. download the files 
 
 2. go to the `Permission give` file and then install the ownership program to gain adminstration permission (make sure to create a desktop shortcut)
 
