@@ -18,7 +18,7 @@ installation isn't complicated at all, just follow the steps below:
 
 2. go to the `Permission give` file and then install the ownership program to gain adminstration permission (make sure to create a desktop shortcut)
 
-2.I after installing permission give go to your desktop and click program you just installed
+2.I open the program you just installed
 
 2.II adding the following paths:
 
