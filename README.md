@@ -24,7 +24,8 @@ B.1 after installing permission give go to your desktop and click program you ju
 B.2 adding the following paths:
 
 `C:/windows/System32 `
-`C:/windows/SysWOW64 (if your system is 32 bit then you won't need to add this path)`
+
+`C:/windows/SysWOW64 `(if your system is 32 bit then you won't need to add this path)
 
 ![ownership preview.png](ownership preview.png)
 
