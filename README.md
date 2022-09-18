@@ -9,7 +9,7 @@ This method is 100% safe and is working in september 2022
 4. Microsoft store sign in - Yes
 5. Xbox Connected - Yes
 6. All / Multi Versions - Yes
-
+![minecraft](https://cdn.discordapp.com/attachments/1007798294073835562/1021087929071849542/minecraft-1536x865.jpg)
 
 # How to install it successfully?
 
