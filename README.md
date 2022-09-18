@@ -27,7 +27,7 @@ B.2 adding the following paths:
 
 `C:/windows/SysWOW64 `(if your system is 32 bit then you won't need to add this path)
 
-![ownership preview](PERMISSION GIVE/ownership preview.png)
+![ownership preview](https://cdn.discordapp.com/attachments/1007798294073835562/1021079928806047884/ownership_preview.png)
 
 
 
