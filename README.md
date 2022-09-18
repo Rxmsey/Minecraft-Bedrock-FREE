@@ -29,7 +29,7 @@ A. download the files
 
 ![ownership preview](https://cdn.discordapp.com/attachments/1007798294073835562/1021079928806047884/ownership_preview.png)
 
-3. Navigate into the crack file, if your system is 64 bit click x64 but if it's 32 bits then click the x32 file
+3. Navigate through the crack file, if your system is 64 bit click x64 but if it's 32 bits then click the x32 file
 
 
 copy the content of the System32 file to the following path: `C:/windows/System32`
