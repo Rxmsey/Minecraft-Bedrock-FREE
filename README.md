@@ -3,12 +3,12 @@ This method is 100% safe and is working in september 2022
 
 # Provided features:
 
-Servers - Yes
-Privacy error - No
-Xbox Progress - Yes
-Microsoft store sign in - Yes
-Xbox Connected - Yes
-All / Multi Versions - Yes
+1. Servers - Yes
+2. Privacy error - No
+3. Xbox Progress - Yes
+4. Microsoft store sign in - Yes
+5. Xbox Connected - Yes
+6. All / Multi Versions - Yes
 
 
 # How to install it successfully?
