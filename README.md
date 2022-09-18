@@ -27,7 +27,7 @@ B.2 adding the following paths:
 
 `C:/windows/SysWOW64 `(if your system is 32 bit then you won't need to add this path)
 
-![ownership preview.png](ownership preview.png)
+![ownership preview.png](PERMISSION GIVE/ownership preview.png)
 
 
 
