@@ -1,14 +1,15 @@
 # Minecraft Bedrock for free !
 This method is 100% safe and is working in september 2022
-You will be able to access:
-```
+
+# Provided features:
+
 Servers - Yes
 Privacy error - No
 Xbox Progress - Yes
 Microsoft store sign in - Yes
 Xbox Connected - Yes
 All / Multi Versions - Yes
-```
+
 
 # How to install it successfully?
 
