@@ -36,7 +36,7 @@ copy the content of the System32 file to the following path: `C:/windows/System3
 and the content of the SysWOW64 to the following path: `C:/windows/SysWOW64` (again you don't have to do this step if your system is 32 bit)
 
 
-4. go to the Minecraft download file and click MCdownload, select the version you wish to have and download it, after downloading process is finished, now you can launch the game
+4. go to the Minecraft download file and click MCdownload, select the version you wish to have and download it, after downloading process is finished, now you have it on your pc and can launch the game
 
 
 
